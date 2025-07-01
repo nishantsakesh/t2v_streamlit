@@ -1,9 +1,10 @@
 streamlit
 opencv-python-headless
 Pillow
-diffusers
+diffusers>=0.25.0
 transformers
 accelerate
 segment-anything
 torch
+torchvision
 hf_xet
