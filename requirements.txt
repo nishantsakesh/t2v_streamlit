@@ -7,3 +7,4 @@ accelerate
 segment-anything
 torch
 hf_xet
+cv2
