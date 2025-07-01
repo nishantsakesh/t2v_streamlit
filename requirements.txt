@@ -1,5 +1,5 @@
 streamlit
-opencv-python
+opencv-python-headless
 Pillow
 diffusers
 transformers
@@ -7,4 +7,3 @@ accelerate
 segment-anything
 torch
 hf_xet
-cv2
