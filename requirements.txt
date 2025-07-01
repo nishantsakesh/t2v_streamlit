@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+Pillow
+diffusers
+transformers
+accelerate
+segment-anything
+torch
+hf_xet
